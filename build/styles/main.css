@@ -11,8 +11,8 @@
   font-family: 'Roboto', sans-serif;
 }
 body {
-  background-color: #353b48;
-  color: #f5f6fa;
+  background-color: #303030;
+  color: #ffffff;
 }
 li {
   list-style: none;
@@ -58,7 +58,7 @@ header .perfil {
 }
 .bio-perfil .perfil-descriçao {
   font-size: 14px;
-  opacity: 0.7;
+  opacity: 0.9;
 }
 .links {
   display: flex;
@@ -81,17 +81,17 @@ header .perfil {
 }
 .lista-de-projetos .itens-da-lista a {
   text-decoration: none;
-  background-color: #9c88ff;
+  background-color: #ffffff;
   display: block;
   padding: 16px 20px;
   margin-bottom: 16px;
   text-align: center;
   font-weight: bold;
   border-radius: 30px;
-  border: 2px solid #9c88ff;
+  border: 2px solid #ffffff;
   transition: all ease 0.8s;
 }
 .lista-de-projetos .itens-da-lista a:hover {
-  color: #9c88ff;
-  background-color: #353b48;
+  color: #ffffff;
+  background-color: #303030;
 }
